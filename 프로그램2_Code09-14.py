@@ -28,4 +28,3 @@ for ch in inStr:
     turtle.write(ch,font=('맑은고딕',txtSize,'bold'))
 
 turtle.done()
-()
