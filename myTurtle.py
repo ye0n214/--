@@ -19,3 +19,4 @@ def getXYAS(sw,sh):
     angle=random.randrange(0,360)
     size=random.randrange(10,50)
     return [x,y,angle,size]
+()
